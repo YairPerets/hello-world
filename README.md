@@ -1,10 +1,12 @@
 # hello-world
-This repository is for practice.
+This repository is a begining.
+
 #include <iostream>
 using namespace std;
 
 int main()
 {
-  cout << "hello worl!" << endl;
+  int x = 50, y = 60;
+  cout << "hello world!" << endl;
   return 0;
 }
